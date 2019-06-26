@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Play Scenes/title_screen.unity
+- path: Assets/Scenes/Test Scenes/loop test.unity
   isLoaded: 1
   isActive: 1
